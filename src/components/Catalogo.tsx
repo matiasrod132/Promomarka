@@ -15,6 +15,10 @@ type Producto = {
 
 const Catalogo: React.FC = () => {
 
+  const [hoveredModelos, setHoveredModelos] = useState<(number | null)[]>(
+    productos.productos.map(() => null)
+  );
+
   const [selectedModelos, setSelectedModelos] = useState<number[]>(
     productos.productos.map(() => 0)
   );
@@ -83,15 +87,7 @@ const Catalogo: React.FC = () => {
 
       {Object.entries(productosPorCategoria).map(([categoria, productosCat]) => (
         <div key={categoria} style={{ marginBottom: 40 }}>
-          <h3 id={categoria} style={{
-            color: '#17407e',
-            fontWeight: 700,
-            fontSize: 22,
-            margin: '32px 0 18px 0',
-            letterSpacing: 1
-          }}>
-            {categoria}
-          </h3>
+          <h3 id={categoria} className="catalogo-sections">{categoria}</h3>
           <div className="catalogo-grid">
             {productosCat.map((prod: Producto) => {
               const realIdx = productos.productos.findIndex(p => p.nombre === prod.nombre);
@@ -100,7 +96,13 @@ const Catalogo: React.FC = () => {
                   <div className="catalogo-img-frame">
                     <img
                       ref={el => (imgRefs.current[realIdx] = el)}
-                      src={prod.modelos[selectedModelos[realIdx]]?.imagen}
+                      src={
+                        prod.modelos[
+                          hoveredModelos[realIdx] !== null
+                            ? hoveredModelos[realIdx]!
+                            : selectedModelos[realIdx]
+                        ]?.imagen
+                      }
                       alt={prod.nombre}
                       className="catalogo-img"
                       onMouseMove={e => handleMouseMove(e, realIdx)}
@@ -116,7 +118,16 @@ const Catalogo: React.FC = () => {
                         key={modeloIdx}
                         className={`catalogo-modelo-btn${selectedModelos[realIdx] === modeloIdx ? ' selected' : ''}`}
                         onClick={() => handleModeloClick(realIdx, modeloIdx)}
-                        onMouseEnter={() => handleModeloClick(realIdx, modeloIdx)}
+                        onMouseEnter={() => {
+                          setHoveredModelos(prev =>
+                            prev.map((val, idx) => (idx === realIdx ? modeloIdx : val))
+                          );
+                        }}
+                        onMouseLeave={() => {
+                          setHoveredModelos(prev =>
+                            prev.map((val, idx) => (idx === realIdx ? null : val))
+                          );
+                        }}
                         title={modelo.nombre}
                         type="button"
                       >

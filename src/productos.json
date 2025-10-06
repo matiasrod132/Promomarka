@@ -44,7 +44,8 @@
     "modelos": [
       { "nombre": "Modelo 1", "imagen": "/imagenes/polos1.jpg" },
       { "nombre": "Modelo 2", "imagen": "/imagenes/polos2.jpg" },
-      { "nombre": "Modelo 3", "imagen": "/imagenes/polos3.jpg" }
+      { "nombre": "Modelo 3", "imagen": "/imagenes/polos3.jpg" },
+      { "nombre": "Modelo 4", "imagen": "/imagenes/polos4.jpg" }
     ]
   },
   {
@@ -54,7 +55,8 @@
     "modelos": [
       { "nombre": "Modelo 1", "imagen": "/imagenes/chompas1.jpg" },
       { "nombre": "Modelo 2", "imagen": "/imagenes/chompas2.jpg" },
-      { "nombre": "Modelo 3", "imagen": "/imagenes/chompas3.jpg" }
+      { "nombre": "Modelo 3", "imagen": "/imagenes/chompas3.jpg" },
+      { "nombre": "Modelo 4", "imagen": "/imagenes/chompas4.jpg" }
     ]
   },
 {
@@ -62,9 +64,11 @@
     "categoria": "Maleteria",
     "descripcion": "Hieleras personalizadas práctica y resistentes.",
     "modelos": [
-      { "nombre": "Modelo 1", "imagen": "/imagenes/hielera1.jpg" },
-      { "nombre": "Modelo 2", "imagen": "/imagenes/hielera2.jpg" },
-      { "nombre": "Modelo 3", "imagen": "/imagenes/hielera3.jpg" }
+      { "nombre": "Modelo 1", "imagen": "/imagenes/hieleras1.jpg" },
+      { "nombre": "Modelo 2", "imagen": "/imagenes/hieleras2.jpg" },
+      { "nombre": "Modelo 3", "imagen": "/imagenes/hieleras3.jpg" },
+      { "nombre": "Modelo 4", "imagen": "/imagenes/hieleras4.jpg" },
+      { "nombre": "Modelo 5", "imagen": "/imagenes/hieleras5.jpg" }
     ]
   },
   {
@@ -124,7 +128,9 @@
       { "nombre": "Modelo 3", "imagen": "/imagenes/mandiles3.jpg" },
       { "nombre": "Modelo 4", "imagen": "/imagenes/mandiles4.jpg" },
       { "nombre": "Modelo 5", "imagen": "/imagenes/mandiles5.jpg" },
-      { "nombre": "Modelo 6", "imagen": "/imagenes/mandiles6.jpg" }
+      { "nombre": "Modelo 6", "imagen": "/imagenes/mandiles6.jpg" },
+      { "nombre": "Modelo 7", "imagen": "/imagenes/mandiles7.jpg" },
+      { "nombre": "Modelo 8", "imagen": "/imagenes/mandiles8.jpg" }
     ]
   },
   {
@@ -149,14 +155,16 @@
       { "nombre": "Modelo 4", "imagen": "/imagenes/libreta4.jpg" },
       { "nombre": "Modelo 5", "imagen": "/imagenes/libreta5.jpg" },
       { "nombre": "Modelo 6", "imagen": "/imagenes/libreta6.jpg" },
-      { "nombre": "Modelo 7", "imagen": "/imagenes/libreta7.jpg" }
+      { "nombre": "Modelo 7", "imagen": "/imagenes/libreta7.jpg" },
+      { "nombre": "Modelo 8", "imagen": "/imagenes/libreta8.jpg" }
     ]
   },
   {
     "nombre": "Pins",
     "descripcion": "Pins personalizados con diseño exclusivo para tu marca.",
     "modelos": [
-      { "nombre": "Modelo 1", "imagen": "/imagenes/pins1.jpg" }
+      { "nombre": "Modelo 1", "imagen": "/imagenes/pins1.jpg" },
+      { "nombre": "Modelo 2", "imagen": "/imagenes/pins2.jpg" }
     ]
   },
   {
@@ -319,7 +327,8 @@
       { "nombre": "Modelo 12", "imagen": "/imagenes/termos12.jpg" },
       { "nombre": "Modelo 13", "imagen": "/imagenes/termos13.jpg" },
       { "nombre": "Modelo 14", "imagen": "/imagenes/termos14.jpg" },
-      { "nombre": "Modelo 15", "imagen": "/imagenes/termos15.jpg" }
+      { "nombre": "Modelo 15", "imagen": "/imagenes/termos15.jpg" },
+      { "nombre": "Modelo 16", "imagen": "/imagenes/termos16.jpg" }
     ]
   }
 ]
