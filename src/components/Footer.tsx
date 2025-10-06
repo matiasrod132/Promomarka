@@ -9,15 +9,16 @@ const Footer = () => {
             Contacto
           </h3>
           <div className="footer-content">
-            <div className="footer-content-title translatable" data-es="Teléfono:" data-en="Phone:">
+            <div className="footer-content-title">
               Teléfono:
             </div>
-            <p className="copy-text">0981754489</p>
+            <p >0992933261</p>
+            <p >0981754489</p>
           </div>
         </div>
 
         <div className="footer-section">
-          <h3 className="translatable" data-es="Síguenos" data-en="Follow Us">Síguenos</h3>
+          <h3>Síguenos</h3>
           <ul className="footer-content">
             <li className="icon-item instagram">
               <a href="https://www.instagram.com/promomarkaec/" className="icon-link">

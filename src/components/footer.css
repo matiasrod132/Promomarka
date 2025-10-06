@@ -20,7 +20,7 @@ footer .footer-section {
 .footer-content {
   display: flex;
   align-items: center;
-  justify-content: center;
+  flex-direction: column;
   list-style: none;
   margin: 0px;
   padding: 0px;
@@ -62,14 +62,6 @@ footer .footer-bottom {
 }
 footer .footer-bottom p {
   margin: 0;
-}
-@media (max-width: 1024px) {
-  footer .container {
-    align-items: center;
-  }
-  footer .footer-section {
-    text-align: center;
-  }
 }
 .icon-item {
   display: flex;

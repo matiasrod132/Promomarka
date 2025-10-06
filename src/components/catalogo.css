@@ -1,5 +1,6 @@
 .catalogo-section {
-  max-width: 1400px;
+  max-width: 1600px;
+  min-height: 60vh;
   margin: 0 auto;
   padding: 40px 0;
 }
@@ -9,6 +10,7 @@
   color: #f25820;
   font-family: "Fredoka", sans-serif;
   letter-spacing: 1px;
+  font-size: 25px;
 }
 
 .catalogo-subtitle {
@@ -16,7 +18,7 @@
   font-family: "Roboto", sans-serif;
   margin-bottom: 30px;
   color: #333;
-  font-size: 14px;
+  font-size: 18px;
 }
 
 /** SEARCHBAR **/
@@ -26,16 +28,24 @@
   background: #000000;
   border-radius: 40px;
   box-shadow: 0 4px 16px rgba(44,62,80,0.07);
-  padding: 0 28px;
+  padding: 0 12px;
   width: 25%;
   max-width: 500px;
   margin: 32px auto 36px auto;
   height: 55px;
   position: relative;
+  user-select: none;
+}
+
+@media (max-width: 700px) {
+  .catalogo-searchbar-container {
+    width: 50%;
+  }
 }
 
 .catalogo-searchbar-input {
   flex: 1;
+  min-width: 0;
   border: none;
   outline: none;
   background: transparent;
@@ -55,10 +65,22 @@
   align-items: center;
   justify-content: center;
   margin-left: 12px;
+  min-width: 28px;
+  flex-shrink: 0;
   height: 100%;
+  color: #fff;
 }
 
 /** PRODUCTOS **/
+.catalogo-sections {
+  text-align: center;
+  color: #f25820;
+  font-weight: 700;
+  font-size: 25px;
+  margin: 32px 0 18px 0;
+  letter-spacing: 1px;
+}
+
 .catalogo-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
@@ -92,12 +114,7 @@
 
 @media (max-width: 600px) {
   .catalogo-img-frame {
-    width: 95vw;
-    height: 45vw;
-    min-width: 0;
-    min-height: 0;
-    max-width: 100%;
-    max-height: 60vw;
+    max-height: 100%;
   }
 }
 
@@ -130,15 +147,6 @@
   color: #17407e;
   font-weight: 700;
   margin-bottom: 2px;
-}
-
-.catalogo-sections {
-  text-align: center;
-  color: #f25820;
-  font-weight: 700;
-  font-size: 22px;
-  margin: '32px 0 18px 0';
-  letter-spacing: 1;
 }
 
 .catalogo-modelos {

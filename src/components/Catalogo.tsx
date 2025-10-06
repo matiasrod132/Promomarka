@@ -17,6 +17,21 @@ const Catalogo: React.FC = () => {
   const isMobile = window.innerWidth <= 768;
   const [zoomed, setZoomed] = useState(false);
 
+  const handleTouchMove = (
+    e: React.TouchEvent<HTMLImageElement>,
+    idx: number
+  ) => {
+    const img = imgRefs.current[idx];
+    if (!img) return;
+    const rect = img.getBoundingClientRect();
+    const touch = e.touches[0];
+    if (!touch) return;
+    const x = ((touch.clientX - rect.left) / rect.width) * 100;
+    const y = ((touch.clientY - rect.top) / rect.height) * 100;
+    img.style.transformOrigin = `${x}% ${y}%`;
+    img.style.transform = 'scale(2.5)'; // O el nivel de zoom que prefieras
+  };
+
   const [hoveredModelos, setHoveredModelos] = useState<(number | null)[]>(
     productos.productos.map(() => null)
   );
@@ -79,14 +94,22 @@ const Catalogo: React.FC = () => {
           value={search}
           onChange={e => setSearch(e.target.value)}
         />
-        <span className="catalogo-searchbar-icon">
-          <svg width="22" height="22" viewBox="0 0 22 22" fill="none">
-            <circle cx="10" cy="10" r="8" stroke="#ffffffff" strokeWidth="2"/>
-            <line x1="16.4142" y1="16" x2="20" y2="19.5858" stroke="#ffffffff" strokeWidth="2" strokeLinecap="round"/>
-          </svg>
-        </span>
+        <span className="catalogo-searchbar-icon material-symbols-outlined">search</span>
       </div>
 
+      {Object.keys(productosPorCategoria).length === 0 && (
+        <div style={{
+          textAlign: 'center',
+          color: '#f25820',
+          fontWeight: 700,
+          fontSize: 22,
+          margin: '60px 0 100px 0',
+          minHeight: '200px'
+        }}>
+          No se encontró ese producto.
+        </div>
+      )}
+      
       {Object.entries(productosPorCategoria).map(([categoria, productosCat]) => (
         <div key={categoria} style={{ marginBottom: 40 }}>
           <h3 id={categoria} className="catalogo-sections">{categoria}</h3>
@@ -122,6 +145,9 @@ const Catalogo: React.FC = () => {
                     onMouseMove={e => !isMobile && handleMouseMove(e, realIdx)}
                     onMouseLeave={() => !isMobile && handleMouseLeave(realIdx)}
                     onMouseOut={() => !isMobile && handleMouseLeave(realIdx)}
+                    onTouchStart={e => handleTouchMove(e, realIdx)}
+                    onTouchMove={e => handleTouchMove(e, realIdx)}
+                    onTouchEnd={() => handleMouseLeave(realIdx)}
                   />
                   </div>
                   <div className="catalogo-nombre">{prod.nombre}</div>

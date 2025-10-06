@@ -6,16 +6,15 @@ const Header: React.FC = () => {
     <header>
       <div className="contenedor">
         <div className="logo">
-          {/* <img src="./favicon.ico" alt="Logo" width="100" height="103" /> */}
+          <img src="./favicon.ico" alt="Logo"/>
           <p>Promomarka</p>
         </div>
-        <nav className='menu-idioma'>
-          <ul className="nav-links desktop-only">
+        <nav>
+          <ul className="nav-links">
             <li><a href="#Textileria">Textileria</a></li>
             <li><a href="#Maleteria">Maleteria</a></li>
             <li><a href="#Otros">Otros</a></li>
           </ul>
-
         </nav>
       </div>
     </header>

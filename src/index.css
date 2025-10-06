@@ -8,3 +8,11 @@ body {
   display: block;
   overflow-x: hidden;
 }
+img {
+  user-select: none;
+  -webkit-user-select: none;
+  -webkit-user-drag: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  pointer-events: auto;
+}
