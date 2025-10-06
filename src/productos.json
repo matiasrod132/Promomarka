@@ -2,7 +2,7 @@
   {
     "nombre": "GORRAS",
     "categoria": "Textileria",
-    "descripcion": "Personaliza tu estilo con gorras bordadas o estampadas únicas y cómodas.",
+    "descripcion": "Personaliza tu estilo con gorras bordadas, estampadas o sublimadas únicas y cómodas.",
     "modelos": [
         { "nombre": "Modelo 1", "imagen": "/imagenes/gorra1.jpg" },
         { "nombre": "Modelo 2", "imagen": "/imagenes/gorra2.jpg" },
@@ -40,7 +40,7 @@
   {
     "nombre": "Polo",
     "categoria": "Textileria",
-    "descripcion": "Polo personalizadas (Logo bordado, color, modelo, etc)",
+    "descripcion": "Polo personalizadas en diferentes telas, Logo bordado o estampado",
     "modelos": [
         { "nombre": "Modelo 1", "imagen": "/imagenes/polo1.jpg" }
       ]
@@ -57,7 +57,7 @@
 {
     "nombre": "HIELERAS",
     "categoria": "Maleteria",
-    "descripcion": "Hieleras personalizadas prácticas, duraderas y promocionales.",
+    "descripcion": "Hieleras personalizadas práctica y resistentes.",
     "modelos": [
         { "nombre": "Modelo 1", "imagen": "/imagenes/hielera1.jpg" },
         { "nombre": "Modelo 2", "imagen": "/imagenes/hielera2.jpg" }
@@ -137,7 +137,7 @@
   },
   {
     "nombre": "LIBRETAS",
-    "descripcion": "Libreta de corcho (Logo bordado, color, modelo, etc)",
+    "descripcion": "Libreta de diferentes materiales, impresion a uno o mas colores",
     "modelos": [
         { "nombre": "Modelo 1", "imagen": "/imagenes/libreta1.jpg" },
         { "nombre": "Modelo 2", "imagen": "/imagenes/libreta2.jpg" },
@@ -180,7 +180,7 @@
   },
   {
     "nombre": "Llaveros",
-    "descripcion": "Llaveros personalizados resistentes y promocionales.",
+    "descripcion": "Llaveros personalizados resistentes y practicos.",
     "modelos": [
         { "nombre": "Modelo 1", "imagen": "/imagenes/llaveros1.jpg" },
         { "nombre": "Modelo 2", "imagen": "/imagenes/llaveros2.jpg" },
@@ -284,13 +284,6 @@
     "descripcion": "Porta teléfonos personalizados prácticos y elegantes.",
     "modelos": [
         { "nombre": "Modelo 1", "imagen": "/imagenes/portatelefonos1.jpg" }
-      ]
-  },
-  {
-    "nombre": "Pins",
-    "descripcion": "Pins personalizadas (Logo bordado, color, modelo, etc)",
-    "modelos": [
-        { "nombre": "Modelo 1", "imagen": "/imagenes/pins1.jpg" }
       ]
   }
 ]
