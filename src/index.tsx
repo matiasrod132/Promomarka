@@ -11,9 +11,9 @@ const root = ReactDOM.createRoot(
 );
 root.render(
   <React.StrictMode>
-      <Header />
-      <Catalogo />
-      <Footer />
+    <Header />
+    <Catalogo />
+    <Footer />
   </React.StrictMode>
 );
 

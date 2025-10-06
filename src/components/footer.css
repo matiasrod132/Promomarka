@@ -65,10 +65,10 @@ footer .footer-bottom p {
 }
 @media (max-width: 1024px) {
   footer .container {
-      align-items: center;
+    align-items: center;
   }
   footer .footer-section {
-      text-align: center;
+    text-align: center;
   }
 }
 .icon-item {
@@ -98,8 +98,4 @@ footer .footer-bottom p {
     #962fbf 75%,
     #4f5bd5 100%
   );
-}
-.no-scroll {
-  overflow: hidden;
-  touch-action: none;
 }

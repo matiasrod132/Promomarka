@@ -14,6 +14,8 @@ type Producto = {
 }
 
 const Catalogo: React.FC = () => {
+  const isMobile = window.innerWidth <= 768;
+  const [zoomed, setZoomed] = useState(false);
 
   const [hoveredModelos, setHoveredModelos] = useState<(number | null)[]>(
     productos.productos.map(() => null)
@@ -95,20 +97,32 @@ const Catalogo: React.FC = () => {
                 <div key={realIdx} className="catalogo-card">
                   <div className="catalogo-img-frame">
                     <img
-                      ref={el => (imgRefs.current[realIdx] = el)}
-                      src={
-                        prod.modelos[
-                          hoveredModelos[realIdx] !== null
-                            ? hoveredModelos[realIdx]!
-                            : selectedModelos[realIdx]
-                        ]?.imagen
+                    ref={el => (imgRefs.current[realIdx] = el)}
+                    src={
+                      prod.modelos[
+                        hoveredModelos[realIdx] !== null
+                          ? hoveredModelos[realIdx]!
+                          : selectedModelos[realIdx]
+                      ]?.imagen
+                    }
+                    onClick={() => {
+                      if (isMobile) {
+                        const img  = imgRefs.current[realIdx];
+                        if (!img) return;
+                        if (!zoomed) {
+                          img.style.transform = 'scale(2)';
+                        } else {
+                          img.style.transform = '';
+                        }
+                        setZoomed(!zoomed);
                       }
-                      alt={prod.nombre}
-                      className="catalogo-img"
-                      onMouseMove={e => handleMouseMove(e, realIdx)}
-                      onMouseLeave={() => handleMouseLeave(realIdx)}
-                      onMouseOut={() => handleMouseLeave(realIdx)}
-                    />
+                    }}
+                    alt={prod.nombre}
+                    className="catalogo-img"
+                    onMouseMove={e => !isMobile && handleMouseMove(e, realIdx)}
+                    onMouseLeave={() => !isMobile && handleMouseLeave(realIdx)}
+                    onMouseOut={() => !isMobile && handleMouseLeave(realIdx)}
+                  />
                   </div>
                   <div className="catalogo-nombre">{prod.nombre}</div>
                   <div className="catalogo-desc">{prod.descripcion}</div>
@@ -139,7 +153,6 @@ const Catalogo: React.FC = () => {
                       </button>
                     ))}
                   </div>
-                  <button className="catalogo-btn">Leer más</button>
                 </div>
               );
             })}
