@@ -4,287 +4,323 @@
     "categoria": "Textileria",
     "descripcion": "Personaliza tu estilo con gorras bordadas, estampadas o sublimadas únicas y cómodas.",
     "modelos": [
-        { "nombre": "Modelo 1", "imagen": "/imagenes/gorra1.jpg" },
-        { "nombre": "Modelo 2", "imagen": "/imagenes/gorra2.jpg" },
-        { "nombre": "Modelo 3", "imagen": "/imagenes/gorra3.jpg" },
-        { "nombre": "Modelo 4", "imagen": "/imagenes/gorra4.jpg" },
-        { "nombre": "Modelo 5", "imagen": "/imagenes/gorra5.jpg" },
-        { "nombre": "Modelo 6", "imagen": "/imagenes/gorra6.jpg" }
-      ]
+      { "nombre": "Modelo 1", "imagen": "/imagenes/gorra1.jpg" },
+      { "nombre": "Modelo 2", "imagen": "/imagenes/gorra2.jpg" },
+      { "nombre": "Modelo 3", "imagen": "/imagenes/gorra3.jpg" },
+      { "nombre": "Modelo 4", "imagen": "/imagenes/gorra4.jpg" },
+      { "nombre": "Modelo 5", "imagen": "/imagenes/gorra5.jpg" },
+      { "nombre": "Modelo 6", "imagen": "/imagenes/gorra6.jpg" }
+    ]
   },
   {
     "nombre": "CAMISETAS",
     "categoria": "Textileria",
     "descripcion": "Camisetas personalizadas con tu logo bordado o estampado.",
     "modelos": [
-        { "nombre": "Modelo 1", "imagen": "/imagenes/CAMISA1.jpg" },
-        { "nombre": "Modelo 2", "imagen": "/imagenes/CAMISA2.jpg" },
-        { "nombre": "Modelo 3", "imagen": "/imagenes/CAMISA3.jpg" },
-        { "nombre": "Modelo 4", "imagen": "/imagenes/CAMISA4.jpg" },
-        { "nombre": "Modelo 5", "imagen": "/imagenes/CAMISA5.jpg" },
-        { "nombre": "Modelo 6", "imagen": "/imagenes/CAMISA6.jpg" },
-        { "nombre": "Modelo 7", "imagen": "/imagenes/CAMISA7.jpg" },
-        { "nombre": "Modelo 8", "imagen": "/imagenes/CAMISA8.jpg" },
-        { "nombre": "Modelo 9", "imagen": "/imagenes/CAMISA9.jpg" },
-        { "nombre": "Modelo 10", "imagen": "/imagenes/CAMISA10.jpg" }, 
-        { "nombre": "Modelo 11", "imagen": "/imagenes/CAMISA11.jpg" },
-        { "nombre": "Modelo 12", "imagen": "/imagenes/CAMISA12.jpg" },
-        { "nombre": "Modelo 13", "imagen": "/imagenes/CAMISA13.jpg" },
-        { "nombre": "Modelo 14", "imagen": "/imagenes/CAMISA14.jpg" },
-        { "nombre": "Modelo 15", "imagen": "/imagenes/CAMISA15.jpg" },
-        { "nombre": "Modelo 16", "imagen": "/imagenes/CAMISA16.jpg" },
-        { "nombre": "Modelo 17", "imagen": "/imagenes/CAMISA17.jpg" },
-        { "nombre": "Modelo 18", "imagen": "/imagenes/CAMISA18.jpg" }
-      ]
+      { "nombre": "Modelo 1", "imagen": "/imagenes/camisas1.jpg" },
+      { "nombre": "Modelo 2", "imagen": "/imagenes/camisas2.jpg" },
+      { "nombre": "Modelo 3", "imagen": "/imagenes/camisas3.jpg" },
+      { "nombre": "Modelo 4", "imagen": "/imagenes/camisas4.jpg" },
+      { "nombre": "Modelo 5", "imagen": "/imagenes/camisas5.jpg" },
+      { "nombre": "Modelo 6", "imagen": "/imagenes/camisas6.jpg" },
+      { "nombre": "Modelo 7", "imagen": "/imagenes/camisas7.jpg" },
+      { "nombre": "Modelo 8", "imagen": "/imagenes/camisas8.jpg" },
+      { "nombre": "Modelo 9", "imagen": "/imagenes/camisas9.jpg" },
+      { "nombre": "Modelo 10", "imagen": "/imagenes/camisas10.jpg" }, 
+      { "nombre": "Modelo 11", "imagen": "/imagenes/camisas11.jpg" },
+      { "nombre": "Modelo 12", "imagen": "/imagenes/camisas12.jpg" },
+      { "nombre": "Modelo 13", "imagen": "/imagenes/camisas13.jpg" },
+      { "nombre": "Modelo 14", "imagen": "/imagenes/camisas14.jpg" },
+      { "nombre": "Modelo 15", "imagen": "/imagenes/camisas15.jpg" },
+      { "nombre": "Modelo 16", "imagen": "/imagenes/camisas16.jpg" },
+      { "nombre": "Modelo 17", "imagen": "/imagenes/camisas17.jpg" },
+      { "nombre": "Modelo 18", "imagen": "/imagenes/camisas18.jpg" }
+    ]
   },
   {
-    "nombre": "Polo",
+    "nombre": "Polos",
     "categoria": "Textileria",
-    "descripcion": "Polo personalizadas en diferentes telas, Logo bordado o estampado",
+    "descripcion": "Polos personalizadas en diferentes telas, Logo bordado o estampado",
     "modelos": [
-        { "nombre": "Modelo 1", "imagen": "/imagenes/polo1.jpg" }
-      ]
+      { "nombre": "Modelo 1", "imagen": "/imagenes/polos1.jpg" },
+      { "nombre": "Modelo 2", "imagen": "/imagenes/polos2.jpg" },
+      { "nombre": "Modelo 3", "imagen": "/imagenes/polos3.jpg" }
+    ]
   },
   {
     "nombre": "CHOMPAS",
     "categoria": "Textileria",
     "descripcion": "Chompas bordadas o estampadas ideales para uniformes o promociones corporativas.",
     "modelos": [
-        { "nombre": "Modelo 1", "imagen": "/imagenes/CHOMPA1.jpg" },
-        { "nombre": "Modelo 2", "imagen": "/imagenes/CHOMPA2.jpg" }
-      ]
+      { "nombre": "Modelo 1", "imagen": "/imagenes/chompas1.jpg" },
+      { "nombre": "Modelo 2", "imagen": "/imagenes/chompas2.jpg" },
+      { "nombre": "Modelo 3", "imagen": "/imagenes/chompas3.jpg" }
+    ]
   },
 {
     "nombre": "HIELERAS",
     "categoria": "Maleteria",
     "descripcion": "Hieleras personalizadas práctica y resistentes.",
     "modelos": [
-        { "nombre": "Modelo 1", "imagen": "/imagenes/hielera1.jpg" },
-        { "nombre": "Modelo 2", "imagen": "/imagenes/hielera2.jpg" }
-      ]
+      { "nombre": "Modelo 1", "imagen": "/imagenes/hielera1.jpg" },
+      { "nombre": "Modelo 2", "imagen": "/imagenes/hielera2.jpg" },
+      { "nombre": "Modelo 3", "imagen": "/imagenes/hielera3.jpg" }
+    ]
   },
   {
     "nombre": "BOLSOS",
     "categoria": "Maleteria",
     "descripcion": "Bolsos personalizados para eventos, regalos o promoción empresarial.",
     "modelos": [
-        { "nombre": "Modelo 1", "imagen": "/imagenes/bolso1.jpg" },
-        { "nombre": "Modelo 2", "imagen": "/imagenes/bolso2.jpg" },
-        { "nombre": "Modelo 3", "imagen": "/imagenes/bolso3.jpg" },
-        { "nombre": "Modelo 4", "imagen": "/imagenes/bolso4.jpg" },
-        { "nombre": "Modelo 5", "imagen": "/imagenes/bolso5.jpg" },
-        { "nombre": "Modelo 6", "imagen": "/imagenes/bolso6.jpg" },
-        { "nombre": "Modelo 7", "imagen": "/imagenes/bolso7.jpg" },
-        { "nombre": "Modelo 8", "imagen": "/imagenes/bolso8.jpg" },
-        { "nombre": "Modelo 9", "imagen": "/imagenes/bolso9.jpg" },
-        { "nombre": "Modelo 10", "imagen": "/imagenes/bolso10.jpg" },
-        { "nombre": "Modelo 11", "imagen": "/imagenes/bolso11.jpg" },
-        { "nombre": "Modelo 12", "imagen": "/imagenes/bolso12.jpg" },
-        { "nombre": "Modelo 13", "imagen": "/imagenes/bolso13.jpg" },
-        { "nombre": "Modelo 14", "imagen": "/imagenes/bolso14.jpg" },
-        { "nombre": "Modelo 15", "imagen": "/imagenes/bolso15.jpg" }
-      ]
+      { "nombre": "Modelo 1", "imagen": "/imagenes/bolso1.jpg" },
+      { "nombre": "Modelo 2", "imagen": "/imagenes/bolso2.jpg" },
+      { "nombre": "Modelo 3", "imagen": "/imagenes/bolso3.jpg" },
+      { "nombre": "Modelo 4", "imagen": "/imagenes/bolso4.jpg" },
+      { "nombre": "Modelo 5", "imagen": "/imagenes/bolso5.jpg" },
+      { "nombre": "Modelo 6", "imagen": "/imagenes/bolso6.jpg" },
+      { "nombre": "Modelo 7", "imagen": "/imagenes/bolso7.jpg" },
+      { "nombre": "Modelo 8", "imagen": "/imagenes/bolso8.jpg" },
+      { "nombre": "Modelo 9", "imagen": "/imagenes/bolso9.jpg" },
+      { "nombre": "Modelo 10", "imagen": "/imagenes/bolso10.jpg" },
+      { "nombre": "Modelo 11", "imagen": "/imagenes/bolso11.jpg" },
+      { "nombre": "Modelo 12", "imagen": "/imagenes/bolso12.jpg" },
+      { "nombre": "Modelo 13", "imagen": "/imagenes/bolso13.jpg" },
+      { "nombre": "Modelo 14", "imagen": "/imagenes/bolso14.jpg" },
+      { "nombre": "Modelo 15", "imagen": "/imagenes/bolso15.jpg" }
+    ]
   },
   {
     "nombre": "TAPETES",
     "categoria": "Maleteria",
     "descripcion": "Tapetes personalizados resistentes con tu logo impreso.",
     "modelos": [
-        { "nombre": "Modelo 1", "imagen": "/imagenes/tapetes1.jpg" }
-      ]
+      { "nombre": "Modelo 1", "imagen": "/imagenes/tapetes1.jpg" }
+    ]
   },
   {
     "nombre": "CARTUCHERA",
     "categoria": "Maleteria",
     "descripcion": "Cartucheras personalizadas funcionales y modernas para tu marca.",
     "modelos": [
-        { "nombre": "Modelo 1", "imagen": "/imagenes/cartucheras1.jpg" }
-      ]
+      { "nombre": "Modelo 1", "imagen": "/imagenes/cartucheras1.jpg" }
+    ]
   },
   {
     "nombre": "FUNDAS",
     "categoria": "Maleteria",
     "descripcion": "Fundas personalizadas con logo, color y diseño único.",
     "modelos": [
-        { "nombre": "Modelo 1", "imagen": "/imagenes/fundas1.jpg" },
-        { "nombre": "Modelo 2", "imagen": "/imagenes/fundas2.jpg" }
-      ]
+      { "nombre": "Modelo 1", "imagen": "/imagenes/fundas1.jpg" },
+      { "nombre": "Modelo 2", "imagen": "/imagenes/fundas2.jpg" }
+    ]
   },
   {
     "nombre": "MANDILES",
     "categoria": "Textileria",
     "descripcion": "Mandiles personalizados perfectos para cocina, eventos o marcas.",
     "modelos": [
-        { "nombre": "Modelo 1", "imagen": "/imagenes/mandiles1.jpg" },
-        { "nombre": "Modelo 2", "imagen": "/imagenes/mandiles2.jpg" },
-        { "nombre": "Modelo 3", "imagen": "/imagenes/mandiles3.jpg" },
-        { "nombre": "Modelo 4", "imagen": "/imagenes/mandiles4.jpg" },
-        { "nombre": "Modelo 5", "imagen": "/imagenes/mandiles5.jpg" },
-        { "nombre": "Modelo 6", "imagen": "/imagenes/mandiles6.jpg" }
-      ]
+      { "nombre": "Modelo 1", "imagen": "/imagenes/mandiles1.jpg" },
+      { "nombre": "Modelo 2", "imagen": "/imagenes/mandiles2.jpg" },
+      { "nombre": "Modelo 3", "imagen": "/imagenes/mandiles3.jpg" },
+      { "nombre": "Modelo 4", "imagen": "/imagenes/mandiles4.jpg" },
+      { "nombre": "Modelo 5", "imagen": "/imagenes/mandiles5.jpg" },
+      { "nombre": "Modelo 6", "imagen": "/imagenes/mandiles6.jpg" }
+    ]
   },
   {
     "nombre": "PLUMAS",
     "descripcion": "Plumas personalizadas elegantes con el logo de tu empresa.",
     "modelos": [
-        { "nombre": "Modelo 1", "imagen": "/imagenes/pluma1.jpg" },
-        { "nombre": "Modelo 2", "imagen": "/imagenes/pluma2.jpg" },
-        { "nombre": "Modelo 3", "imagen": "/imagenes/pluma3.jpg" },
-        { "nombre": "Modelo 4", "imagen": "/imagenes/pluma4.jpg" },
-        { "nombre": "Modelo 5", "imagen": "/imagenes/pluma5.jpg" },
-        { "nombre": "Modelo 6", "imagen": "/imagenes/pluma6.jpg" }
-      ]
+      { "nombre": "Modelo 1", "imagen": "/imagenes/pluma1.jpg" },
+      { "nombre": "Modelo 2", "imagen": "/imagenes/pluma2.jpg" },
+      { "nombre": "Modelo 3", "imagen": "/imagenes/pluma3.jpg" },
+      { "nombre": "Modelo 4", "imagen": "/imagenes/pluma4.jpg" },
+      { "nombre": "Modelo 5", "imagen": "/imagenes/pluma5.jpg" },
+      { "nombre": "Modelo 6", "imagen": "/imagenes/pluma6.jpg" }
+    ]
   },
   {
     "nombre": "LIBRETAS",
     "descripcion": "Libreta de diferentes materiales, impresion a uno o mas colores",
     "modelos": [
-        { "nombre": "Modelo 1", "imagen": "/imagenes/libreta1.jpg" },
-        { "nombre": "Modelo 2", "imagen": "/imagenes/libreta2.jpg" },
-        { "nombre": "Modelo 3", "imagen": "/imagenes/libreta3.jpg" },
-        { "nombre": "Modelo 4", "imagen": "/imagenes/libreta4.jpg" },
-        { "nombre": "Modelo 5", "imagen": "/imagenes/libreta5.jpg" },
-        { "nombre": "Modelo 6", "imagen": "/imagenes/libreta6.jpg" },
-        { "nombre": "Modelo 7", "imagen": "/imagenes/libreta7.jpg" }
-      ]
+      { "nombre": "Modelo 1", "imagen": "/imagenes/libreta1.jpg" },
+      { "nombre": "Modelo 2", "imagen": "/imagenes/libreta2.jpg" },
+      { "nombre": "Modelo 3", "imagen": "/imagenes/libreta3.jpg" },
+      { "nombre": "Modelo 4", "imagen": "/imagenes/libreta4.jpg" },
+      { "nombre": "Modelo 5", "imagen": "/imagenes/libreta5.jpg" },
+      { "nombre": "Modelo 6", "imagen": "/imagenes/libreta6.jpg" },
+      { "nombre": "Modelo 7", "imagen": "/imagenes/libreta7.jpg" }
+    ]
   },
   {
     "nombre": "Pins",
     "descripcion": "Pins personalizados con diseño exclusivo para tu marca.",
     "modelos": [
-        { "nombre": "Modelo 1", "imagen": "/imagenes/pins1.jpg" }
-      ]
+      { "nombre": "Modelo 1", "imagen": "/imagenes/pins1.jpg" }
+    ]
   },
   {
     "nombre": "Banderas",
     "descripcion": "Banderas sublimadas personalizadas para eventos, publicidad o decoración.",
     "modelos": [
-        { "nombre": "Modelo 1", "imagen": "/imagenes/banderas1.jpg" }
-      ]
+      { "nombre": "Modelo 1", "imagen": "/imagenes/banderas1.jpg" }
+    ]
   },
   {
     "nombre": "Mangas",
     "categoria": "Textileria",
     "descripcion": "Mangas deportivas personalizadas con logo y diseño exclusivo.",
     "modelos": [
-        { "nombre": "Modelo 1", "imagen": "/imagenes/mangas1.jpg" },
-        { "nombre": "Modelo 2", "imagen": "/imagenes/mangas2.jpg" }
-      ]
+      { "nombre": "Modelo 1", "imagen": "/imagenes/mangas1.jpg" },
+      { "nombre": "Modelo 2", "imagen": "/imagenes/mangas2.jpg" }
+    ]
   },
   {
     "nombre": "Navajas Suizas",
     "descripcion": "Navajas suizas personalizadas prácticas y de alta calidad.",
     "modelos": [
-        { "nombre": "Modelo 1", "imagen": "/imagenes/navajas1.jpg" }
-      ]
+      { "nombre": "Modelo 1", "imagen": "/imagenes/navajas1.jpg" }
+    ]
   },
   {
     "nombre": "Llaveros",
     "descripcion": "Llaveros personalizados resistentes y practicos.",
     "modelos": [
-        { "nombre": "Modelo 1", "imagen": "/imagenes/llaveros1.jpg" },
-        { "nombre": "Modelo 2", "imagen": "/imagenes/llaveros2.jpg" },
-        { "nombre": "Modelo 3", "imagen": "/imagenes/llaveros3.jpg" },
-        { "nombre": "Modelo 4", "imagen": "/imagenes/llaveros4.jpg" },
-        { "nombre": "Modelo 5", "imagen": "/imagenes/llaveros5.jpg" }
-      ]
+      { "nombre": "Modelo 1", "imagen": "/imagenes/llaveros1.jpg" },
+      { "nombre": "Modelo 2", "imagen": "/imagenes/llaveros2.jpg" },
+      { "nombre": "Modelo 3", "imagen": "/imagenes/llaveros3.jpg" },
+      { "nombre": "Modelo 4", "imagen": "/imagenes/llaveros4.jpg" },
+      { "nombre": "Modelo 5", "imagen": "/imagenes/llaveros5.jpg" }
+    ]
   },
   {
     "nombre": "CARGADORES",
     "descripcion": "Cargadores personalizados ideales para regalos corporativos.",
     "modelos": [
-        { "nombre": "Modelo 1", "imagen": "/imagenes/cargadores1.jpg" }
-      ]
+      { "nombre": "Modelo 1", "imagen": "/imagenes/cargadores1.jpg" }
+    ]
   },
   {
     "nombre": "DESTAPADORES",
     "descripcion": "Destapadores personalizados duraderos y prácticos.",
     "modelos": [
-        { "nombre": "Modelo 1", "imagen": "/imagenes/destapadores1.jpg" }
-      ]
+      { "nombre": "Modelo 1", "imagen": "/imagenes/destapadores1.jpg" }
+    ]
   },
   {
     "nombre": "PIJAMAS",
     "categoria": "Textileria",
     "descripcion": "Pijamas personalizadas con estilo y máxima comodidad.",
     "modelos": [
-        { "nombre": "Modelo 1", "imagen": "/imagenes/pijamas1.jpg" },
-        { "nombre": "Modelo 2", "imagen": "/imagenes/pijamas2.jpg" },
-        { "nombre": "Modelo 3", "imagen": "/imagenes/pijamas3.jpg" },
-        { "nombre": "Modelo 4", "imagen": "/imagenes/pijamas4.jpg" },
-        { "nombre": "Modelo 5", "imagen": "/imagenes/pijamas5.jpg" },
-        { "nombre": "Modelo 6", "imagen": "/imagenes/pijamas6.jpg" }
-      ]
+      { "nombre": "Modelo 1", "imagen": "/imagenes/pijamas1.jpg" },
+      { "nombre": "Modelo 2", "imagen": "/imagenes/pijamas2.jpg" },
+      { "nombre": "Modelo 3", "imagen": "/imagenes/pijamas3.jpg" },
+      { "nombre": "Modelo 4", "imagen": "/imagenes/pijamas4.jpg" },
+      { "nombre": "Modelo 5", "imagen": "/imagenes/pijamas5.jpg" },
+      { "nombre": "Modelo 6", "imagen": "/imagenes/pijamas6.jpg" }
+    ]
   },
   {
     "nombre": "SOMBREROS",
     "categoria": "Textileria",
     "descripcion": "Sombreros personalizados ideales para eventos o promociones.",
     "modelos": [
-        { "nombre": "Modelo 1", "imagen": "/imagenes/sombreros1.jpg" }
-      ]
+      { "nombre": "Modelo 1", "imagen": "/imagenes/sombreros1.jpg" }
+    ]
   },
   {
     "nombre": "ESPEJOS",
     "descripcion": "Espejos personalizados compactos y elegantes para tu marca.",
     "modelos": [
-        { "nombre": "Modelo 1", "imagen": "/imagenes/espejos1.jpg" }
-      ]
+      { "nombre": "Modelo 1", "imagen": "/imagenes/espejos1.jpg" }
+    ]
   },
   {
     "nombre": "Paraguas",
     "descripcion": "Paraguas personalizados resistentes con tu logo.",
     "modelos": [
-        { "nombre": "Modelo 1", "imagen": "/imagenes/paraguas1.jpg" },
-        { "nombre": "Modelo 2", "imagen": "/imagenes/paraguas2.jpg" },
-        { "nombre": "Modelo 3", "imagen": "/imagenes/paraguas3.jpg" }
-      ]
+      { "nombre": "Modelo 1", "imagen": "/imagenes/paraguas1.jpg" },
+      { "nombre": "Modelo 2", "imagen": "/imagenes/paraguas2.jpg" },
+      { "nombre": "Modelo 3", "imagen": "/imagenes/paraguas3.jpg" }
+    ]
   },
   {
     "nombre": "POPSOCKETS",
     "descripcion": "Popsockets personalizados para tu celular con estilo único.",
     "modelos": [
-        { "nombre": "Modelo 1", "imagen": "/imagenes/popsockets1.jpg" }
-      ]
+      { "nombre": "Modelo 1", "imagen": "/imagenes/popsockets1.jpg" }
+    ]
   },
   {
     "nombre": "POSTITS",
     "descripcion": "Post-its personalizados útiles para oficina o eventos.",
     "modelos": [
-        { "nombre": "Modelo 1", "imagen": "/imagenes/postits1.jpg" }
-      ]
+      { "nombre": "Modelo 1", "imagen": "/imagenes/postits1.jpg" }
+    ]
   },
   {
     "nombre": "TAZAS",
     "descripcion": "Tazas personalizadas ideales para regalos o publicidad.",
     "modelos": [
-        { "nombre": "Modelo 1", "imagen": "/imagenes/tazas1.jpg" },
-        { "nombre": "Modelo 2", "imagen": "/imagenes/tazas2.jpg" },
-        { "nombre": "Modelo 3", "imagen": "/imagenes/tazas3.jpg" },
-        { "nombre": "Modelo 4", "imagen": "/imagenes/tazas4.jpg" },
-        { "nombre": "Modelo 5", "imagen": "/imagenes/tazas5.jpg" }
-      ]
+      { "nombre": "Modelo 1", "imagen": "/imagenes/tazas1.jpg" },
+      { "nombre": "Modelo 2", "imagen": "/imagenes/tazas2.jpg" },
+      { "nombre": "Modelo 3", "imagen": "/imagenes/tazas3.jpg" },
+      { "nombre": "Modelo 4", "imagen": "/imagenes/tazas4.jpg" },
+      { "nombre": "Modelo 5", "imagen": "/imagenes/tazas5.jpg" }
+    ]
   },
   {
     "nombre": "PARLANTES",
     "descripcion": "Parlantes personalizados modernos con tu logo.",
     "modelos": [
-        { "nombre": "Modelo 1", "imagen": "/imagenes/parlantes1.jpg" }
-      ]
+      { "nombre": "Modelo 1", "imagen": "/imagenes/parlantes1.jpg" }
+    ]
   },
   {
     "nombre": "MOUSEPADS",
     "descripcion": "Mousepads personalizados con tu diseño o marca.",
     "modelos": [
-        { "nombre": "Modelo 1", "imagen": "/imagenes/mousepads1.jpg" }
-      ]
+      { "nombre": "Modelo 1", "imagen": "/imagenes/mousepads1.jpg" }
+    ]
   },
   {
     "nombre": "PORTA TELEFONOS",
     "descripcion": "Porta teléfonos personalizados prácticos y elegantes.",
     "modelos": [
-        { "nombre": "Modelo 1", "imagen": "/imagenes/portatelefonos1.jpg" }
-      ]
+      { "nombre": "Modelo 1", "imagen": "/imagenes/portatelefonos1.jpg" }
+    ]
+  },
+  {
+    "nombre": "UNIFORMES",
+    "categoria": "Textileria",
+    "descripcion": "Uniformes personalizados profesionales, cómodos y con tu logo.",
+    "modelos": [
+      { "nombre": "Modelo 1", "imagen": "/imagenes/uniformes1.jpg" },
+      { "nombre": "Modelo 2", "imagen": "/imagenes/uniformes2.jpg" },
+      { "nombre": "Modelo 3", "imagen": "/imagenes/uniformes3.jpg" },
+      { "nombre": "Modelo 4", "imagen": "/imagenes/uniformes4.jpg" }
+    ]
+  },
+    {
+    "nombre": "TERMOS",
+    "descripcion": "Termos personalizados resistentes, ideales para oficina o regalos.",
+    "modelos": [
+      { "nombre": "Modelo 1", "imagen": "/imagenes/termos1.jpg" },
+      { "nombre": "Modelo 2", "imagen": "/imagenes/termos2.jpg" },
+      { "nombre": "Modelo 3", "imagen": "/imagenes/termos3.jpg" },
+      { "nombre": "Modelo 4", "imagen": "/imagenes/termos4.jpg" },
+      { "nombre": "Modelo 5", "imagen": "/imagenes/termos5.jpg" },
+      { "nombre": "Modelo 6", "imagen": "/imagenes/termos6.jpg" },
+      { "nombre": "Modelo 7", "imagen": "/imagenes/termos7.jpg" },
+      { "nombre": "Modelo 8", "imagen": "/imagenes/termos8.jpg" },
+      { "nombre": "Modelo 9", "imagen": "/imagenes/termos9.jpg" },
+      { "nombre": "Modelo 10", "imagen": "/imagenes/termos10.jpg" },
+      { "nombre": "Modelo 11", "imagen": "/imagenes/termos11.jpg" },
+      { "nombre": "Modelo 12", "imagen": "/imagenes/termos12.jpg" },
+      { "nombre": "Modelo 13", "imagen": "/imagenes/termos13.jpg" },
+      { "nombre": "Modelo 14", "imagen": "/imagenes/termos14.jpg" },
+      { "nombre": "Modelo 15", "imagen": "/imagenes/termos15.jpg" }
+    ]
   }
 ]
 }

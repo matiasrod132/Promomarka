@@ -4,6 +4,9 @@ import Header from './components/Header';
 import Catalogo from './components/Catalogo';
 import './index.css';
 import Footer from './components/Footer';
+import { SpeedInsights } from "@vercel/speed-insights/react"
+
+<SpeedInsights />
 
 const root = ReactDOM.createRoot(
   document.getElementById('root') as HTMLElement
