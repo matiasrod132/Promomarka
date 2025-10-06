@@ -2,7 +2,7 @@
   {
     "nombre": "GORRAS",
     "categoria": "Textileria",
-    "descripcion": "Gorras personalizadas (Logo bordado, color, modelo, etc)",
+    "descripcion": "Personaliza tu estilo con gorras bordadas o estampadas únicas y cómodas.",
     "modelos": [
         { "nombre": "Modelo 1", "imagen": "/imagenes/gorra1.jpg" },
         { "nombre": "Modelo 2", "imagen": "/imagenes/gorra2.jpg" },
@@ -13,9 +13,9 @@
       ]
   },
   {
-    "nombre": "CAMISETA",
+    "nombre": "CAMISETAS",
     "categoria": "Textileria",
-    "descripcion": "CAMISETAS personalizadas (Logo bordado, color, modelo, etc)",
+    "descripcion": "Camisetas personalizadas con tu logo bordado o estampado.",
     "modelos": [
         { "nombre": "Modelo 1", "imagen": "/imagenes/CAMISA1.jpg" },
         { "nombre": "Modelo 2", "imagen": "/imagenes/CAMISA2.jpg" },
@@ -48,7 +48,7 @@
   {
     "nombre": "CHOMPAS",
     "categoria": "Textileria",
-    "descripcion": "Chompas bordadas ideales para uniformes o promociones corporativas.",
+    "descripcion": "Chompas bordadas o estampadas ideales para uniformes o promociones corporativas.",
     "modelos": [
         { "nombre": "Modelo 1", "imagen": "/imagenes/CHOMPA1.jpg" },
         { "nombre": "Modelo 2", "imagen": "/imagenes/CHOMPA2.jpg" }
@@ -157,7 +157,7 @@
   },
   {
     "nombre": "Banderas",
-    "descripcion": "Banderas personalizadas para eventos, publicidad o decoración.",
+    "descripcion": "Banderas sublimadas personalizadas para eventos, publicidad o decoración.",
     "modelos": [
         { "nombre": "Modelo 1", "imagen": "/imagenes/banderas1.jpg" }
       ]
@@ -198,7 +198,7 @@
   },
   {
     "nombre": "DESTAPADORES",
-    "descripcion": "Destapadores personalizados prácticos y promocionales.",
+    "descripcion": "Destapadores personalizados duraderos y prácticos.",
     "modelos": [
         { "nombre": "Modelo 1", "imagen": "/imagenes/destapadores1.jpg" }
       ]
