@@ -48,7 +48,7 @@
   {
     "nombre": "CHOMPAS",
     "categoria": "Textileria",
-    "descripcion": "Chompas personalizadas (Logo bordado, color, modelo, etc)",
+    "descripcion": "Chompas bordadas ideales para uniformes o promociones corporativas.",
     "modelos": [
         { "nombre": "Modelo 1", "imagen": "/imagenes/CHOMPA1.jpg" },
         { "nombre": "Modelo 2", "imagen": "/imagenes/CHOMPA2.jpg" }
@@ -57,7 +57,7 @@
 {
     "nombre": "HIELERAS",
     "categoria": "Maleteria",
-    "descripcion": "Hieleras personalizadas (Logo bordado, color, modelo, etc)",
+    "descripcion": "Hieleras personalizadas prácticas, duraderas y promocionales.",
     "modelos": [
         { "nombre": "Modelo 1", "imagen": "/imagenes/hielera1.jpg" },
         { "nombre": "Modelo 2", "imagen": "/imagenes/hielera2.jpg" }
@@ -66,7 +66,7 @@
   {
     "nombre": "BOLSOS",
     "categoria": "Maleteria",
-    "descripcion": "Bolsos personalizadas (Logo bordado, color, modelo, etc)",
+    "descripcion": "Bolsos personalizados para eventos, regalos o promoción empresarial.",
     "modelos": [
         { "nombre": "Modelo 1", "imagen": "/imagenes/bolso1.jpg" },
         { "nombre": "Modelo 2", "imagen": "/imagenes/bolso2.jpg" },
@@ -88,7 +88,7 @@
   {
     "nombre": "TAPETES",
     "categoria": "Maleteria",
-    "descripcion": "Tapetes personalizadas (Logo bordado, color, modelo, etc)",
+    "descripcion": "Tapetes personalizados resistentes con tu logo impreso.",
     "modelos": [
         { "nombre": "Modelo 1", "imagen": "/imagenes/tapetes1.jpg" }
       ]
@@ -96,7 +96,7 @@
   {
     "nombre": "CARTUCHERA",
     "categoria": "Maleteria",
-    "descripcion": "Cartuchera personalizadas (Logo bordado, color, modelo, etc)",
+    "descripcion": "Cartucheras personalizadas funcionales y modernas para tu marca.",
     "modelos": [
         { "nombre": "Modelo 1", "imagen": "/imagenes/cartucheras1.jpg" }
       ]
@@ -104,7 +104,7 @@
   {
     "nombre": "FUNDAS",
     "categoria": "Maleteria",
-    "descripcion": "Fundas personalizadas (Logo bordado, color, modelo, etc)",
+    "descripcion": "Fundas personalizadas con logo, color y diseño único.",
     "modelos": [
         { "nombre": "Modelo 1", "imagen": "/imagenes/fundas1.jpg" },
         { "nombre": "Modelo 2", "imagen": "/imagenes/fundas2.jpg" }
@@ -113,7 +113,7 @@
   {
     "nombre": "MANDILES",
     "categoria": "Textileria",
-    "descripcion": "Mandiles personalizadas (Logo bordado, color, modelo, etc)",
+    "descripcion": "Mandiles personalizados perfectos para cocina, eventos o marcas.",
     "modelos": [
         { "nombre": "Modelo 1", "imagen": "/imagenes/mandiles1.jpg" },
         { "nombre": "Modelo 2", "imagen": "/imagenes/mandiles2.jpg" },
@@ -125,7 +125,7 @@
   },
   {
     "nombre": "PLUMAS",
-    "descripcion": "PLUMAS personalizadas (Logo bordado, color, modelo, etc)",
+    "descripcion": "Plumas personalizadas elegantes con el logo de tu empresa.",
     "modelos": [
         { "nombre": "Modelo 1", "imagen": "/imagenes/pluma1.jpg" },
         { "nombre": "Modelo 2", "imagen": "/imagenes/pluma2.jpg" },
@@ -137,7 +137,7 @@
   },
   {
     "nombre": "LIBRETAS",
-    "descripcion": "Libretas personalizadas (Logo bordado, color, modelo, etc)",
+    "descripcion": "Libreta de corcho (Logo bordado, color, modelo, etc)",
     "modelos": [
         { "nombre": "Modelo 1", "imagen": "/imagenes/libreta1.jpg" },
         { "nombre": "Modelo 2", "imagen": "/imagenes/libreta2.jpg" },
@@ -150,14 +150,14 @@
   },
   {
     "nombre": "Pins",
-    "descripcion": "Pins personalizadas (Logo bordado, color, modelo, etc)",
+    "descripcion": "Pins personalizados con diseño exclusivo para tu marca.",
     "modelos": [
         { "nombre": "Modelo 1", "imagen": "/imagenes/pins1.jpg" }
       ]
   },
   {
     "nombre": "Banderas",
-    "descripcion": "Banderas personalizadas (Logo bordado, color, modelo, etc)",
+    "descripcion": "Banderas personalizadas para eventos, publicidad o decoración.",
     "modelos": [
         { "nombre": "Modelo 1", "imagen": "/imagenes/banderas1.jpg" }
       ]
@@ -165,7 +165,7 @@
   {
     "nombre": "Mangas",
     "categoria": "Textileria",
-    "descripcion": "Mangas personalizadas (Logo bordado, color, modelo, etc)",
+    "descripcion": "Mangas deportivas personalizadas con logo y diseño exclusivo.",
     "modelos": [
         { "nombre": "Modelo 1", "imagen": "/imagenes/mangas1.jpg" },
         { "nombre": "Modelo 2", "imagen": "/imagenes/mangas2.jpg" }
@@ -173,14 +173,14 @@
   },
   {
     "nombre": "Navajas Suizas",
-    "descripcion": "Navajas Suizas personalizadas (Logo bordado, color, modelo, etc)",
+    "descripcion": "Navajas suizas personalizadas prácticas y de alta calidad.",
     "modelos": [
         { "nombre": "Modelo 1", "imagen": "/imagenes/navajas1.jpg" }
       ]
   },
   {
     "nombre": "Llaveros",
-    "descripcion": "Llaveros personalizadas (Logo bordado, color, modelo, etc)",
+    "descripcion": "Llaveros personalizados resistentes y promocionales.",
     "modelos": [
         { "nombre": "Modelo 1", "imagen": "/imagenes/llaveros1.jpg" },
         { "nombre": "Modelo 2", "imagen": "/imagenes/llaveros2.jpg" },
@@ -191,14 +191,14 @@
   },
   {
     "nombre": "CARGADORES",
-    "descripcion": "Cargadores personalizadas (Logo bordado, color, modelo, etc)",
+    "descripcion": "Cargadores personalizados ideales para regalos corporativos.",
     "modelos": [
         { "nombre": "Modelo 1", "imagen": "/imagenes/cargadores1.jpg" }
       ]
   },
   {
     "nombre": "DESTAPADORES",
-    "descripcion": "Destapadores personalizadas (Logo bordado, color, modelo, etc)",
+    "descripcion": "Destapadores personalizados prácticos y promocionales.",
     "modelos": [
         { "nombre": "Modelo 1", "imagen": "/imagenes/destapadores1.jpg" }
       ]
@@ -206,7 +206,7 @@
   {
     "nombre": "PIJAMAS",
     "categoria": "Textileria",
-    "descripcion": "Pijamas personalizadas (Logo bordado, color, modelo, etc)",
+    "descripcion": "Pijamas personalizadas con estilo y máxima comodidad.",
     "modelos": [
         { "nombre": "Modelo 1", "imagen": "/imagenes/pijamas1.jpg" },
         { "nombre": "Modelo 2", "imagen": "/imagenes/pijamas2.jpg" },
@@ -219,21 +219,21 @@
   {
     "nombre": "SOMBREROS",
     "categoria": "Textileria",
-    "descripcion": "Sombreros personalizadas (Logo bordado, color, modelo, etc)",
+    "descripcion": "Sombreros personalizados ideales para eventos o promociones.",
     "modelos": [
         { "nombre": "Modelo 1", "imagen": "/imagenes/sombreros1.jpg" }
       ]
   },
   {
     "nombre": "ESPEJOS",
-    "descripcion": "Espejos personalizadas (Logo bordado, color, modelo, etc)",
+    "descripcion": "Espejos personalizados compactos y elegantes para tu marca.",
     "modelos": [
         { "nombre": "Modelo 1", "imagen": "/imagenes/espejos1.jpg" }
       ]
   },
   {
     "nombre": "Paraguas",
-    "descripcion": "Paraguas personalizadas (Logo bordado, color, modelo, etc)",
+    "descripcion": "Paraguas personalizados resistentes con tu logo.",
     "modelos": [
         { "nombre": "Modelo 1", "imagen": "/imagenes/paraguas1.jpg" },
         { "nombre": "Modelo 2", "imagen": "/imagenes/paraguas2.jpg" },
@@ -242,21 +242,21 @@
   },
   {
     "nombre": "POPSOCKETS",
-    "descripcion": "Pop Sockets personalizadas (Logo bordado, color, modelo, etc)",
+    "descripcion": "Popsockets personalizados para tu celular con estilo único.",
     "modelos": [
         { "nombre": "Modelo 1", "imagen": "/imagenes/popsockets1.jpg" }
       ]
   },
   {
     "nombre": "POSTITS",
-    "descripcion": "Postits personalizadas (Logo bordado, color, modelo, etc)",
+    "descripcion": "Post-its personalizados útiles para oficina o eventos.",
     "modelos": [
         { "nombre": "Modelo 1", "imagen": "/imagenes/postits1.jpg" }
       ]
   },
   {
     "nombre": "TAZAS",
-    "descripcion": "Tazas personalizadas (Logo bordado, color, modelo, etc)",
+    "descripcion": "Tazas personalizadas ideales para regalos o publicidad.",
     "modelos": [
         { "nombre": "Modelo 1", "imagen": "/imagenes/tazas1.jpg" },
         { "nombre": "Modelo 2", "imagen": "/imagenes/tazas2.jpg" },
@@ -267,21 +267,21 @@
   },
   {
     "nombre": "PARLANTES",
-    "descripcion": "Parlantes personalizadas (Logo bordado, color, modelo, etc)",
+    "descripcion": "Parlantes personalizados modernos con tu logo.",
     "modelos": [
         { "nombre": "Modelo 1", "imagen": "/imagenes/parlantes1.jpg" }
       ]
   },
   {
     "nombre": "MOUSEPADS",
-    "descripcion": "Mouse pads personalizadas (Logo bordado, color, modelo, etc)",
+    "descripcion": "Mousepads personalizados con tu diseño o marca.",
     "modelos": [
         { "nombre": "Modelo 1", "imagen": "/imagenes/mousepads1.jpg" }
       ]
   },
   {
     "nombre": "PORTA TELEFONOS",
-    "descripcion": "Porta telefonos personalizadas (Logo bordado, color, modelo, etc)",
+    "descripcion": "Porta teléfonos personalizados prácticos y elegantes.",
     "modelos": [
         { "nombre": "Modelo 1", "imagen": "/imagenes/portatelefonos1.jpg" }
       ]

@@ -12,18 +12,6 @@ const Footer = () => {
             </div>
             <p className="copy-text">0981754489</p>
           </div>
-          <div className="footer-content">
-            <div className="footer-content-title translatable" data-es="Email:" data-en="Email:">
-              Email:
-            </div>
-            <p className="copy-text">MAIL@gmail.com</p>
-          </div>
-          <div className="footer-content">
-            <div className="footer-content-title translatable" data-es="Dirección:" data-en="Address:">
-              Dirección:
-            </div>
-            <p className="copy-text">Av. Gral. Ángel Flores Montúfar, Guayaquil</p>
-          </div>
         </div>
 
         <div className="footer-section">
