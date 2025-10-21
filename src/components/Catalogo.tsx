@@ -47,7 +47,7 @@ const Catalogo: React.FC = () => {
 
   const productosPorCategoria: { [categoria: string]: Producto[] } = {};
   productosFiltrados.forEach((prod) => {
-    const cat = (prod as any).categoria || 'Otros';
+    const cat = (prod as any).categoria || 'OTROS';
     if (!productosPorCategoria[cat]) productosPorCategoria[cat] = [];
     productosPorCategoria[cat].push(prod);
   });

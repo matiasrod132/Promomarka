@@ -1,7 +1,7 @@
 { "productos": [
   {
     "nombre": "GORRAS",
-    "categoria": "Textileria",
+    "categoria": "TEXTILERIA",
     "descripcion": "Personaliza tu estilo con gorras bordadas, estampadas o sublimadas, únicas y cómodas.",
     "modelos": [
       { "nombre": "Modelo 1", "imagen": "/imagenes/gorra1.jpg" },
@@ -14,7 +14,7 @@
   },
   {
     "nombre": "CAMISETAS",
-    "categoria": "Textileria",
+    "categoria": "TEXTILERIA",
     "descripcion": "Camisetas personalizadas con tu logo bordado o estampado.",
     "modelos": [
       { "nombre": "Modelo 1", "imagen": "/imagenes/camisas1.jpg" },
@@ -38,8 +38,8 @@
     ]
   },
   {
-    "nombre": "Polos",
-    "categoria": "Textileria",
+    "nombre": "POLOS",
+    "categoria": "TEXTILERIA",
     "descripcion": "Polos personalizados en diferentes telas, con logo bordado o estampado.",
     "modelos": [
       { "nombre": "Modelo 1", "imagen": "/imagenes/polos1.jpg" },
@@ -50,7 +50,7 @@
   },
   {
     "nombre": "CHOMPAS",
-    "categoria": "Textileria",
+    "categoria": "TEXTILERIA",
     "descripcion": "Chompas bordadas o estampadas, ideales para uniformes o promociones corporativas.",
     "modelos": [
       { "nombre": "Modelo 1", "imagen": "/imagenes/chompas1.jpg" },
@@ -61,7 +61,7 @@
   },
 {
     "nombre": "HIELERAS",
-    "categoria": "Maleteria",
+    "categoria": "MALETERIA",
     "descripcion": "Hieleras personalizadas, prácticas y resistentes.",
     "modelos": [
       { "nombre": "Modelo 1", "imagen": "/imagenes/hieleras1.jpg" },
@@ -73,7 +73,7 @@
   },
   {
     "nombre": "BOLSOS",
-    "categoria": "Maleteria",
+    "categoria": "MALETERIA",
     "descripcion": "Bolsos personalizados para eventos, regalos o promoción empresarial.",
     "modelos": [
       { "nombre": "Modelo 1", "imagen": "/imagenes/bolso1.jpg" },
@@ -95,7 +95,7 @@
   },
   {
     "nombre": "TAPETES",
-    "categoria": "Maleteria",
+    "categoria": "MALETERIA",
     "descripcion": "Tapetes personalizados y resistentes con tu logo impreso.",
     "modelos": [
       { "nombre": "Modelo 1", "imagen": "/imagenes/tapetes1.jpg" }
@@ -103,7 +103,7 @@
   },
   {
     "nombre": "CARTUCHERA",
-    "categoria": "Maleteria",
+    "categoria": "MALETERIA",
     "descripcion": "Cartucheras personalizadas, funcionales y modernas para tu marca.",
     "modelos": [
       { "nombre": "Modelo 1", "imagen": "/imagenes/cartucheras1.jpg" }
@@ -111,7 +111,7 @@
   },
   {
     "nombre": "FUNDAS",
-    "categoria": "Maleteria",
+    "categoria": "MALETERIA",
     "descripcion": "Fundas personalizadas con logo, color y diseño únicos.",
     "modelos": [
       { "nombre": "Modelo 1", "imagen": "/imagenes/fundas1.jpg" },
@@ -120,7 +120,7 @@
   },
   {
     "nombre": "MANDILES",
-    "categoria": "Textileria",
+    "categoria": "TEXTILERIA",
     "descripcion": "Mandiles personalizados, perfectos para cocina, eventos o marcas.",
     "modelos": [
       { "nombre": "Modelo 1", "imagen": "/imagenes/mandiles1.jpg" },
@@ -160,7 +160,7 @@
     ]
   },
   {
-    "nombre": "Pins",
+    "nombre": "PINS",
     "descripcion": "Pins personalizados con diseño exclusivo para tu marca.",
     "modelos": [
       { "nombre": "Modelo 1", "imagen": "/imagenes/pins1.jpg" },
@@ -168,15 +168,15 @@
     ]
   },
   {
-    "nombre": "Banderas",
+    "nombre": "BANDERAS",
     "descripcion": "Banderas sublimadas y personalizadas para eventos, publicidad o decoración.",
     "modelos": [
       { "nombre": "Modelo 1", "imagen": "/imagenes/banderas1.jpg" }
     ]
   },
   {
-    "nombre": "Mangas",
-    "categoria": "Textileria",
+    "nombre": "MANGAS",
+    "categoria": "TEXTILERIA",
     "descripcion": "Mangas deportivas personalizadas con logo y diseño exclusivo.",
     "modelos": [
       { "nombre": "Modelo 1", "imagen": "/imagenes/mangas1.jpg" },
@@ -184,14 +184,14 @@
     ]
   },
   {
-    "nombre": "Navajas Suizas",
+    "nombre": "NAVAJAS SUIZAS",
     "descripcion": "Navajas suizas personalizadas, prácticas y de alta calidad.",
     "modelos": [
       { "nombre": "Modelo 1", "imagen": "/imagenes/navajas1.jpg" }
     ]
   },
   {
-    "nombre": "Llaveros",
+    "nombre": "LLAVEROS",
     "descripcion": "Llaveros personalizados, resistentes y prácticos.",
     "modelos": [
       { "nombre": "Modelo 1", "imagen": "/imagenes/llaveros1.jpg" },
@@ -217,7 +217,7 @@
   },
   {
     "nombre": "PIJAMAS",
-    "categoria": "Textileria",
+    "categoria": "TEXTILERIA",
     "descripcion": "Pijamas personalizadas con estilo y máxima comodidad.",
     "modelos": [
       { "nombre": "Modelo 1", "imagen": "/imagenes/pijamas1.jpg" },
@@ -230,7 +230,7 @@
   },
   {
     "nombre": "SOMBREROS",
-    "categoria": "Textileria",
+    "categoria": "TEXTILERIA",
     "descripcion": "Sombreros personalizados, ideales para eventos o promociones.",
     "modelos": [
       { "nombre": "Modelo 1", "imagen": "/imagenes/sombreros1.jpg" }
@@ -244,7 +244,7 @@
     ]
   },
   {
-    "nombre": "Paraguas",
+    "nombre": "PARAGUAS",
     "descripcion": "Paraguas personalizados, resistentes y con tu logo.",
     "modelos": [
       { "nombre": "Modelo 1", "imagen": "/imagenes/paraguas1.jpg" },
@@ -300,7 +300,7 @@
   },
   {
     "nombre": "UNIFORMES",
-    "categoria": "Textileria",
+    "categoria": "TEXTILERIA",
     "descripcion": "Uniformes personalizados, profesionales, cómodos y con tu logo.",
     "modelos": [
       { "nombre": "Modelo 1", "imagen": "/imagenes/uniformes1.jpg" },

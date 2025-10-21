@@ -11,8 +11,8 @@ const Header: React.FC = () => {
         </div>
         <nav>
           <ul className="nav-links">
-            <li><a href="#Textileria">Textileria</a></li>
-            <li><a href="#Maleteria">Maleteria</a></li>
+            <li><a href="#TEXTILERIA">TEXTILERIA</a></li>
+            <li><a href="#MALETERIA">MALETERIA</a></li>
             <li><a href="#Otros">Otros</a></li>
           </ul>
         </nav>
