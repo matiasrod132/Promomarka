@@ -2,7 +2,7 @@
   {
     "nombre": "GORRAS",
     "categoria": "Textileria",
-    "descripcion": "Personaliza tu estilo con gorras bordadas, estampadas o sublimadas únicas y cómodas.",
+    "descripcion": "Personaliza tu estilo con gorras bordadas, estampadas o sublimadas, únicas y cómodas.",
     "modelos": [
       { "nombre": "Modelo 1", "imagen": "/imagenes/gorra1.jpg" },
       { "nombre": "Modelo 2", "imagen": "/imagenes/gorra2.jpg" },
@@ -40,7 +40,7 @@
   {
     "nombre": "Polos",
     "categoria": "Textileria",
-    "descripcion": "Polos personalizadas en diferentes telas, Logo bordado o estampado",
+    "descripcion": "Polos personalizados en diferentes telas, con logo bordado o estampado.",
     "modelos": [
       { "nombre": "Modelo 1", "imagen": "/imagenes/polos1.jpg" },
       { "nombre": "Modelo 2", "imagen": "/imagenes/polos2.jpg" },
@@ -51,7 +51,7 @@
   {
     "nombre": "CHOMPAS",
     "categoria": "Textileria",
-    "descripcion": "Chompas bordadas o estampadas ideales para uniformes o promociones corporativas.",
+    "descripcion": "Chompas bordadas o estampadas, ideales para uniformes o promociones corporativas.",
     "modelos": [
       { "nombre": "Modelo 1", "imagen": "/imagenes/chompas1.jpg" },
       { "nombre": "Modelo 2", "imagen": "/imagenes/chompas2.jpg" },
@@ -62,7 +62,7 @@
 {
     "nombre": "HIELERAS",
     "categoria": "Maleteria",
-    "descripcion": "Hieleras personalizadas práctica y resistentes.",
+    "descripcion": "Hieleras personalizadas, prácticas y resistentes.",
     "modelos": [
       { "nombre": "Modelo 1", "imagen": "/imagenes/hieleras1.jpg" },
       { "nombre": "Modelo 2", "imagen": "/imagenes/hieleras2.jpg" },
@@ -96,7 +96,7 @@
   {
     "nombre": "TAPETES",
     "categoria": "Maleteria",
-    "descripcion": "Tapetes personalizados resistentes con tu logo impreso.",
+    "descripcion": "Tapetes personalizados y resistentes con tu logo impreso.",
     "modelos": [
       { "nombre": "Modelo 1", "imagen": "/imagenes/tapetes1.jpg" }
     ]
@@ -104,7 +104,7 @@
   {
     "nombre": "CARTUCHERA",
     "categoria": "Maleteria",
-    "descripcion": "Cartucheras personalizadas funcionales y modernas para tu marca.",
+    "descripcion": "Cartucheras personalizadas, funcionales y modernas para tu marca.",
     "modelos": [
       { "nombre": "Modelo 1", "imagen": "/imagenes/cartucheras1.jpg" }
     ]
@@ -112,7 +112,7 @@
   {
     "nombre": "FUNDAS",
     "categoria": "Maleteria",
-    "descripcion": "Fundas personalizadas con logo, color y diseño único.",
+    "descripcion": "Fundas personalizadas con logo, color y diseño únicos.",
     "modelos": [
       { "nombre": "Modelo 1", "imagen": "/imagenes/fundas1.jpg" },
       { "nombre": "Modelo 2", "imagen": "/imagenes/fundas2.jpg" }
@@ -121,7 +121,7 @@
   {
     "nombre": "MANDILES",
     "categoria": "Textileria",
-    "descripcion": "Mandiles personalizados perfectos para cocina, eventos o marcas.",
+    "descripcion": "Mandiles personalizados, perfectos para cocina, eventos o marcas.",
     "modelos": [
       { "nombre": "Modelo 1", "imagen": "/imagenes/mandiles1.jpg" },
       { "nombre": "Modelo 2", "imagen": "/imagenes/mandiles2.jpg" },
@@ -135,7 +135,7 @@
   },
   {
     "nombre": "PLUMAS",
-    "descripcion": "Plumas personalizadas elegantes con el logo de tu empresa.",
+    "descripcion": "Plumas personalizadas, elegantes y con el logo de tu empresa.",
     "modelos": [
       { "nombre": "Modelo 1", "imagen": "/imagenes/pluma1.jpg" },
       { "nombre": "Modelo 2", "imagen": "/imagenes/pluma2.jpg" },
@@ -147,7 +147,7 @@
   },
   {
     "nombre": "LIBRETAS",
-    "descripcion": "Libreta de diferentes materiales, impresion a uno o mas colores",
+    "descripcion": "Libretas de diferentes materiales, con impresión a uno o más colores.",
     "modelos": [
       { "nombre": "Modelo 1", "imagen": "/imagenes/libreta1.jpg" },
       { "nombre": "Modelo 2", "imagen": "/imagenes/libreta2.jpg" },
@@ -169,7 +169,7 @@
   },
   {
     "nombre": "Banderas",
-    "descripcion": "Banderas sublimadas personalizadas para eventos, publicidad o decoración.",
+    "descripcion": "Banderas sublimadas y personalizadas para eventos, publicidad o decoración.",
     "modelos": [
       { "nombre": "Modelo 1", "imagen": "/imagenes/banderas1.jpg" }
     ]
@@ -185,14 +185,14 @@
   },
   {
     "nombre": "Navajas Suizas",
-    "descripcion": "Navajas suizas personalizadas prácticas y de alta calidad.",
+    "descripcion": "Navajas suizas personalizadas, prácticas y de alta calidad.",
     "modelos": [
       { "nombre": "Modelo 1", "imagen": "/imagenes/navajas1.jpg" }
     ]
   },
   {
     "nombre": "Llaveros",
-    "descripcion": "Llaveros personalizados resistentes y practicos.",
+    "descripcion": "Llaveros personalizados, resistentes y prácticos.",
     "modelos": [
       { "nombre": "Modelo 1", "imagen": "/imagenes/llaveros1.jpg" },
       { "nombre": "Modelo 2", "imagen": "/imagenes/llaveros2.jpg" },
@@ -203,14 +203,14 @@
   },
   {
     "nombre": "CARGADORES",
-    "descripcion": "Cargadores personalizados ideales para regalos corporativos.",
+    "descripcion": "Cargadores personalizados, ideales para regalos corporativos.",
     "modelos": [
       { "nombre": "Modelo 1", "imagen": "/imagenes/cargadores1.jpg" }
     ]
   },
   {
     "nombre": "DESTAPADORES",
-    "descripcion": "Destapadores personalizados duraderos y prácticos.",
+    "descripcion": "Destapadores personalizados, duraderos y prácticos.",
     "modelos": [
       { "nombre": "Modelo 1", "imagen": "/imagenes/destapadores1.jpg" }
     ]
@@ -231,21 +231,21 @@
   {
     "nombre": "SOMBREROS",
     "categoria": "Textileria",
-    "descripcion": "Sombreros personalizados ideales para eventos o promociones.",
+    "descripcion": "Sombreros personalizados, ideales para eventos o promociones.",
     "modelos": [
       { "nombre": "Modelo 1", "imagen": "/imagenes/sombreros1.jpg" }
     ]
   },
   {
     "nombre": "ESPEJOS",
-    "descripcion": "Espejos personalizados compactos y elegantes para tu marca.",
+    "descripcion": "Espejos personalizados, compactos y elegantes para tu marca.",
     "modelos": [
       { "nombre": "Modelo 1", "imagen": "/imagenes/espejos1.jpg" }
     ]
   },
   {
     "nombre": "Paraguas",
-    "descripcion": "Paraguas personalizados resistentes con tu logo.",
+    "descripcion": "Paraguas personalizados, resistentes y con tu logo.",
     "modelos": [
       { "nombre": "Modelo 1", "imagen": "/imagenes/paraguas1.jpg" },
       { "nombre": "Modelo 2", "imagen": "/imagenes/paraguas2.jpg" },
@@ -254,21 +254,21 @@
   },
   {
     "nombre": "POPSOCKETS",
-    "descripcion": "Popsockets personalizados para tu celular con estilo único.",
+    "descripcion": "Popsockets personalizados para tu celular, con estilo único.",
     "modelos": [
       { "nombre": "Modelo 1", "imagen": "/imagenes/popsockets1.jpg" }
     ]
   },
   {
     "nombre": "POSTITS",
-    "descripcion": "Post-its personalizados útiles para oficina o eventos.",
+    "descripcion": "Post-its personalizados, útiles para oficina o eventos.",
     "modelos": [
       { "nombre": "Modelo 1", "imagen": "/imagenes/postits1.jpg" }
     ]
   },
   {
     "nombre": "TAZAS",
-    "descripcion": "Tazas personalizadas ideales para regalos o publicidad.",
+    "descripcion": "Tazas personalizadas, ideales para regalos o publicidad.",
     "modelos": [
       { "nombre": "Modelo 1", "imagen": "/imagenes/tazas1.jpg" },
       { "nombre": "Modelo 2", "imagen": "/imagenes/tazas2.jpg" },
@@ -279,7 +279,7 @@
   },
   {
     "nombre": "PARLANTES",
-    "descripcion": "Parlantes personalizados modernos con tu logo.",
+    "descripcion": "Parlantes personalizados, modernos y con tu logo.",
     "modelos": [
       { "nombre": "Modelo 1", "imagen": "/imagenes/parlantes1.jpg" }
     ]
@@ -293,7 +293,7 @@
   },
   {
     "nombre": "PORTA TELEFONOS",
-    "descripcion": "Porta teléfonos personalizados prácticos y elegantes.",
+    "descripcion": "Porta teléfonos personalizados, prácticos y elegantes.",
     "modelos": [
       { "nombre": "Modelo 1", "imagen": "/imagenes/portatelefonos1.jpg" }
     ]
@@ -301,7 +301,7 @@
   {
     "nombre": "UNIFORMES",
     "categoria": "Textileria",
-    "descripcion": "Uniformes personalizados profesionales, cómodos y con tu logo.",
+    "descripcion": "Uniformes personalizados, profesionales, cómodos y con tu logo.",
     "modelos": [
       { "nombre": "Modelo 1", "imagen": "/imagenes/uniformes1.jpg" },
       { "nombre": "Modelo 2", "imagen": "/imagenes/uniformes2.jpg" },
@@ -311,7 +311,7 @@
   },
     {
     "nombre": "TERMOS",
-    "descripcion": "Termos personalizados resistentes, ideales para oficina o regalos.",
+    "descripcion": "Termos personalizados, resistentes e ideales para oficina o regalos.",
     "modelos": [
       { "nombre": "Modelo 1", "imagen": "/imagenes/termos1.jpg" },
       { "nombre": "Modelo 2", "imagen": "/imagenes/termos2.jpg" },
