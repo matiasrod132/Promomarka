@@ -9,9 +9,6 @@ const Footer = () => {
             Contacto
           </h3>
           <div className="footer-content">
-            <div className="footer-content-title">
-              Teléfono:
-            </div>
             <p >0992933261</p>
             <p >0981754489</p>
           </div>
