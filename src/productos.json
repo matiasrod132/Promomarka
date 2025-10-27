@@ -90,7 +90,8 @@
       { "nombre": "Modelo 12", "imagen": "/imagenes/bolso12.jpg" },
       { "nombre": "Modelo 13", "imagen": "/imagenes/bolso13.jpg" },
       { "nombre": "Modelo 14", "imagen": "/imagenes/bolso14.jpg" },
-      { "nombre": "Modelo 15", "imagen": "/imagenes/bolso15.jpg" }
+      { "nombre": "Modelo 15", "imagen": "/imagenes/bolso15.jpg" },
+      { "nombre": "Modelo 16", "imagen": "/imagenes/bolso16.jpg" }
     ]
   },
   {
@@ -328,7 +329,8 @@
       { "nombre": "Modelo 13", "imagen": "/imagenes/termos13.jpg" },
       { "nombre": "Modelo 14", "imagen": "/imagenes/termos14.jpg" },
       { "nombre": "Modelo 15", "imagen": "/imagenes/termos15.jpg" },
-      { "nombre": "Modelo 16", "imagen": "/imagenes/termos16.jpg" }
+      { "nombre": "Modelo 16", "imagen": "/imagenes/termos16.jpg" },
+      { "nombre": "Modelo 17", "imagen": "/imagenes/termos17.jpg" }
     ]
   }
 ]
